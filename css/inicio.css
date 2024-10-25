@@ -1,0 +1,23 @@
+body, .navbar{
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+}
+
+.color-texto{
+    color: white;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+.carousel-inner {
+    display: flex;
+}
+
+.carousel-item {
+    display: flex;
+    justify-content: center;
+}
+
+  
